@@ -22,3 +22,4 @@ there is an additonal point of failier with the arduino in place however this ca
 To follow through the guide read these pages:
 
 [The Sensor](https://github.com/n0t-STATIONARY/Onewheel-Strain-sensor-rider-detection/blob/main/StrainSensor.md)
+[The Controller](https://github.com/n0t-STATIONARY/Onewheel-Strain-sensor-rider-detection/blob/main/Controller.md)
