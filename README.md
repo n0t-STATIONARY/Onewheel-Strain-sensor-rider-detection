@@ -9,7 +9,7 @@ How Does It Work:
 
 the strain sensor is mounted to the inside top edge of the rail this allows for the sensor to stretch as the board is stood apon. An aplifier called HX711 is used to aplify the signal and digitise the analog output, these values are read by an arduino of any variety which has the code on board to determin whether to switch the board on or off. Finally there is a connector that plugs into the standard Onewheel footpad connection point.
 
-Benifits:
+Benefits:
 
 this system will allow you to modify the sensitivity of the board aswell as adding additional features such as a trolly handle button system or a blutooth on and off button for long ghost rides ect. 
 the user is also able to use any footpad that is designed for the back of the board on the front without any change to the functionality of the sensor eg. Kush wide.
