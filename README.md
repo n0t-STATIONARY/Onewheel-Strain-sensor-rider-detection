@@ -18,3 +18,7 @@ Drawbacks:
 
 tricks requiring a foot to be on the front of the board while the tyre spins out are no longer possible.
 there is an additonal point of failier with the arduino in place however this can be mitagated through careful additions to the code.
+
+To follow through the guide read these pages:
+
+[The Sensor](https://github.com/n0t-STATIONARY/Onewheel-Strain-sensor-rider-detection/blob/main/StrainSensor.md)
