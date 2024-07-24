@@ -1,5 +1,5 @@
 # Onewheel-Strain-sensor-rider-detection
-This is an opensource project to showcase an alternative method for rider detection on a Onewheel this method uses the strain of the aluminium rails to determine whether your weight is distributed between the foot sensors.
+This is an opensource project to showcase an alternative method for rider detection on a Onewheel this method uses the strain of the aluminium rails to determine whether your weight is distributed between the foot pads.
 
 I have created a simple code base that determins a threshold then use the threshold to turn the Onewheel on and off currently the code is in a very simple form with a simple calibration sequence I encourage people to update the code with more safety oriented features and complex forms of rider detection.
 
