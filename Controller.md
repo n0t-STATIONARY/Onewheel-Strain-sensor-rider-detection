@@ -1,0 +1,1 @@
+The controller of this system is the combination of an arduino and an Hx711 amplifier these read the sensor values and decide whether the board should be switched on or off aswell as then communicating that decision to the board. 
