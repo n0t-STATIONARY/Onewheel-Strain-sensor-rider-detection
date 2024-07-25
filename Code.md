@@ -1,4 +1,4 @@
-The first itteration of the code is designed as a test it runs a calibration sequence every time the board it turned on and if a user is unaware that this proccess is taking place they can mess it up leading to ghosting so if you use the first itteration of the code be sure to read the code through and be comfortable with how it works before attempting to use the board.
+[The first itteration](https://github.com/n0t-STATIONARY/Onewheel-Strain-sensor-rider-detection/blob/main/OnewheelActivationTest-DONT-USE.ino) of the code is designed as a test it runs a calibration sequence every time the board it turned on and if a user is unaware that this proccess is taking place they can mess it up leading to ghosting so if you use the first itteration of the code be sure to read the code through and be comfortable with how it works before attempting to use the board.
 
 How It Works:
 
