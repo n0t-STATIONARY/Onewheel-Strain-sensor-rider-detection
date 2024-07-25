@@ -23,3 +23,4 @@ To follow through the guide read these pages:
 
 [The Sensor](https://github.com/n0t-STATIONARY/Onewheel-Strain-sensor-rider-detection/blob/main/StrainSensor.md)
 [The Controller](https://github.com/n0t-STATIONARY/Onewheel-Strain-sensor-rider-detection/blob/main/Controller.md)
+[The Connector](https://github.com/n0t-STATIONARY/Onewheel-Strain-sensor-rider-detection/blob/main/OnewheelConnector.md)
